@@ -1,0 +1,6 @@
+[submodule "st"]
+	path = st
+	url = https://github.com/TheNofis/st-dotfiles
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/TheNofis/nvim
