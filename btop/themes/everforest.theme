@@ -1,0 +1,60 @@
+# Theme: Everforest
+# By: TheNofis
+# Main bg
+theme[main_bg]="#2D353B"
+# Main text color
+theme[main_fg]="#D3C6AA"
+# Title color for boxes
+theme[title]="#D3C6AA"
+# Higlight color for keyboard shortcuts
+theme[hi_fg]="#7FBBB3"
+# Background color of selected item in processes box
+theme[selected_bg]="#343F44"
+# Foreground color of selected item in processes box
+theme[selected_fg]="#D3C6AA"
+# Color of inactive/disabled text
+theme[inactive_fg]="#859289"
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7FBBB3"
+# Cpu box outline color
+theme[cpu_box]="#859289"
+# Memory/disks box outline color
+theme[mem_box]="#859289"
+# Net up/down box outline color
+theme[net_box]="#859289"
+# Processes box outline color
+theme[proc_box]="#859289"
+# Box divider line and small boxes line color
+theme[div_line]="#859289"
+# Temperature graph colors
+theme[temp_start]="#A7C080"
+theme[temp_mid]="#DBBC7F"
+theme[temp_end]="#E67E80"
+# CPU graph colors
+theme[cpu_start]="#A7C080"
+theme[cpu_mid]="#DBBC7F"
+theme[cpu_end]="#E67E80"
+# Mem/Disk free meter
+theme[free_start]="#A7C080"
+theme[free_mid]="#DBBC7F"
+theme[free_end]="#E67E80"
+# Mem/Disk cached meter
+theme[cached_start]="#A7C080"
+theme[cached_mid]="#DBBC7F"
+theme[cached_end]="#E67E80"
+# Mem/Disk available meter
+theme[available_start]="#A7C080"
+theme[available_mid]="#DBBC7F"
+theme[available_end]="#E67E80"
+# Mem/Disk used meter
+theme[used_start]="#A7C080"
+theme[used_mid]="#DBBC7F"
+theme[used_end]="#E67E80"
+# Download graph colors
+theme[download_start]="#A7C080"
+theme[download_mid]="#DBBC7F"
+theme[download_end]="#E67E80"
+# Upload graph colors
+theme[upload_start]="#A7C080"
+theme[upload_mid]="#DBBC7F"
+theme[upload_end]="#E67E80"

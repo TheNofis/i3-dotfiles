@@ -1,0 +1,31 @@
+
+2024/10/09 (22:32:31) | ===> btop++ v.1.4.0
+2024/10/09 (22:32:31) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/10/09 (22:33:55) | ===> btop++ v.1.4.0
+2024/10/09 (22:33:55) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/10/19 (05:58:22) | ===> btop++ v.1.4.0
+2024/10/19 (05:58:22) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+
+2024/12/31 (02:09:57) | ===> btop++ v.1.4.0
+2024/12/31 (02:09:57) | ERROR: Stall in Runner thread, restarting!
+
+2024/12/31 (02:10:13) | ===> btop++ v.1.4.0
+2024/12/31 (02:10:13) | ERROR: Stall in Runner thread, restarting!
+
+2024/12/31 (03:30:17) | ===> btop++ v.1.4.0
+2024/12/31 (03:30:17) | INFO: Logger set to INFO
+2024/12/31 (03:30:17) | INFO: Logger set to DEBUG
+
+2025/04/11 (02:50:04) | ===> btop++ v.1.4.0
+2025/04/11 (02:50:04) | WARNING: Failed to join _runner thread on exit!
+
+2025/04/13 (02:13:22) | ===> btop++ v.1.4.0
+2025/04/13 (02:13:22) | ERROR: Stall in Runner thread, restarting!
+
+2025/04/13 (02:15:38) | ===> btop++ v.1.4.0
+2025/04/13 (02:15:38) | ERROR: Stall in Runner thread, restarting!
+
+2025/04/13 (02:24:58) | ===> btop++ v.1.4.0
+2025/04/13 (02:24:58) | ERROR: Stall in Runner thread, restarting!

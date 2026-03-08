@@ -1,0 +1,21 @@
+##############################################################################################
+########################                                              ########################
+########################               Apps-keybindings                ########################
+########################                                              ########################
+##############################################################################################
+
+# exec_always --no-startup-id      feh --bg-fill ~/Downloads/wallpapers/od_neon.png
+
+# exec_always --no-startup-id      nm-applet
+# exec_always --no-startup-id      ~/.config/picom/picomstart.sh
+# exec_always --no-startup-id      killall warpd; warpd
+#########################################################################
+exec --no-startup-id             dunst
+
+exec --no-startup-id             $HOME/.config/i3/scripts/xmodmap.sh
+exec --no-startup-id             $HOME/.config/i3/scripts/monitor.sh
+exec --no-startup-id             $HOME/.config/polybar/launch.sh
+
+exec --no-startup-id             dbus-launch --exit-with-session i3
+
+#########################################################################
